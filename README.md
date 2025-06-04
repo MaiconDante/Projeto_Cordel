@@ -7,7 +7,7 @@ O **Cordel Moderno** é um mini site com layout inspirado na literatura de corde
 ---
 
 ## 📷 Demonstração
-URL -> <a href="#">Projeto Cordel Moderno</a>
+URL -> <a href="https://maicondante.github.io/Projeto_Cordel/">Projeto Cordel Moderno</a>
 
 ## 📚 Sobre o Curso
 
